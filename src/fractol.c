@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fractol.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: takenakatakeshiichirouta <takenakatakes    +#+  +:+       +#+        */
+/*   By: stonegaw <stonegaw@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/29 20:04:44 by takenakatak       #+#    #+#             */
-/*   Updated: 2025/11/29 20:07:17 by takenakatak      ###   ########.fr       */
+/*   Created: 2025/12/23 20:54:07 by stonegaw          #+#    #+#             */
+/*   Updated: 2025/12/23 20:54:09 by stonegaw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
